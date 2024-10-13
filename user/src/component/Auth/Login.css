@@ -1,0 +1,27 @@
+
+.login-container{
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.form{
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    height: 60vh;
+    padding: 10px 80px 100px 45px;
+    margin-left: 400px;
+    margin-top: 80px;
+    margin-bottom: 10px;
+    margin-right: 130px;
+    background-color: rgba(220, 139, 34, 0.541);
+    border-radius: 10px;
+    
+}
+.form div{
+    justify-content: center;
+    align-items: center;
+}
+ .login-h1{
+    text-shadow: 3px 4px 8px blue;
+}

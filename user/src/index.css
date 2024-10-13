@@ -1,3 +1,11 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+font-family: 'Courier New', Courier, monospace;
+min-height: 100vh;
+background-color: aliceblue;
+background-image: linear-gradient(to bottom,steelblue, #fff);
+}
